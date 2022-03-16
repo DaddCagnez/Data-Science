@@ -5,6 +5,7 @@ Laboratorio di Data Science for Business, svolto da:
 7zzzxx Alessandro Ciapponi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Per una migliore lettura del file README.md consigliamo di non limitarsi a visualizzare l'anteprima ma di aprirlo.
 
 Scaricare la cartella denominata Analisi
 Assicurarsi di avere i vari dataset in formato csv nella cartella Progetto, contenente il file Analisi.ipynb e il file PreAnalisi.ipynb
