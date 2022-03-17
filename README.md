@@ -2,7 +2,7 @@ Laboratorio di Data Science for Business, svolto da:
 
 734486 Marco Imperiale
 732521 Davide Cagnetta
-7zzzxx Alessandro Ciapponi
+733433 Alessandro Ciapponi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Per una migliore lettura del file README.md consigliamo di non limitarsi a visualizzare l'anteprima ma di aprirlo.
