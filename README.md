@@ -4,7 +4,7 @@ Laboratorio di Data Science for Business, svolto da:
 732521 Davide Cagnetta
 733433 Alessandro Ciapponi
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Per una migliore lettura del file README.md consigliamo di non limitarsi a visualizzare l'anteprima ma di aprirlo.
 
 Scaricare la cartella denominata Analysis.zip
@@ -18,3 +18,5 @@ Dataset utilizzati:
 
 Abbiamo preferito non inserire i dataset all'interno della cartella Analysis in quanto troppo pesanti.
 Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, relativo all'unione e alla pulizia dei 4 dataset sopracitati.
+
+
