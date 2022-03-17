@@ -8,7 +8,7 @@ Laboratorio di Data Science for Business, svolto da:
 Per una migliore lettura del file README.md consigliamo di non limitarsi a visualizzare l'anteprima ma di aprirlo.
 
 Scaricare la cartella denominata Analisi
-Assicurarsi di avere i vari dataset in formato csv nella cartella Progetto, contenente il file Analisi.ipynb e il file PreAnalisi.ipynb
+Assicurarsi di avere i vari dataset in formato csv nella cartella Progetto, contenente il file Analysis.ipynb e il file PreAnalysis.ipynb
 
 Dataset utilizzati:
 1- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc che contiene informazioni riguardanti rapporti di lavoro attivati
