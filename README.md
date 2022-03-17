@@ -17,6 +17,6 @@ Dataset utilizzati:
 4- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-trasformati/8dwx-jjag che contiene informazioni riguardanti rapporti di lavoro trasformati
 
 Abbiamo preferito non inserire i dataset all'interno della cartella Analysis in quanto troppo pesanti.
-Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, relativo all'unione e alla pulizia dei 4 dataset sopracitati. Tale file ci permette di far funzionare Analysis.ipynb senza dover runnare PreAnalysis.ipynb.
+Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, relativo all'unione e alla pulizia dei 4 dataset sopracitati. Tale file ci permette di far funzionare Analysis.ipynb senza dover runnare PreAnalysis.ipynb. Per il funzionamento di quest'ultimo file invece è necessario aggiungere i vari dataset.
 
 
