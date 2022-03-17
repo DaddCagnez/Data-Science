@@ -8,7 +8,7 @@ Laboratorio di Data Science for Business, svolto da:
 Per una migliore lettura del file README.md consigliamo di non limitarsi a visualizzare l'anteprima ma di aprirlo.
 
 Scaricare la cartella denominata Analysis.zip
-Assicurarsi di aggiungere i vari dataset in formato csv nella cartella Analysis, contenente il file Analysis.ipynb e il file PreAnalysis.ipynb
+Assicurarsi di aggiungere i vari dataset in formato csv nella cartella Analysis, contenente il file Analysis.ipynb, il file PreAnalysis.ipynb e il file Labor_Market_Data_Cleaning.csv
 
 Dataset utilizzati:
 1- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc che contiene informazioni riguardanti rapporti di lavoro attivati
@@ -16,5 +16,5 @@ Dataset utilizzati:
 3- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman che contiene informazioni riguardanti rapporti di lavoro prorogati
 4- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-trasformati/8dwx-jjag che contiene informazioni riguardanti rapporti di lavoro trasformati
 
-Abbiamo preferito non inserire i dataset all'interno della cartella Progetto in quanto troppo pesanti.
+Abbiamo preferito non inserire i dataset all'interno della cartella Analysis in quanto troppo pesanti.
 Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, relativo all'unione e alla pulizia dei 4 dataset sopracitati.
