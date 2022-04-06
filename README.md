@@ -10,7 +10,9 @@ Per una migliore lettura del file README.md consigliamo di non limitarsi a visua
 Scaricare la cartella denominata Analysis.zip
 Assicurarsi di aggiungere i vari dataset in formato csv nella cartella Analysis, contenente il file Analysis.ipynb, il file PreAnalysis.ipynb e il file Labor_Market_Data_Cleaning.csv
 
-Dataset utilizzati:
+LABORATORIO 1: ANALYSIS AND PREPROCESSING
+
+Abbiamo utilizzato i seguenti Dataset:
 1- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc che contiene informazioni riguardanti rapporti di lavoro attivati
 2- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-cessati/nwz3-p6vm che contiene informazioni riguardanti rapporti di lavoro cessati
 3- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman che contiene informazioni riguardanti rapporti di lavoro prorogati
@@ -18,5 +20,10 @@ Dataset utilizzati:
 
 Abbiamo preferito non inserire i dataset all'interno della cartella Analysis in quanto troppo pesanti.
 Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, relativo all'unione e alla pulizia dei 4 dataset sopracitati. Tale file ci permette di far funzionare Analysis.ipynb senza dover runnare PreAnalysis.ipynb. Per il funzionamento di quest'ultimo file invece è necessario aggiungere i vari dataset.
+
+LABORATORIO 2: DATA TRASFORMATION
+
+Partendo dal dataset ottenuto in precedenza, abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici e infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici.
+
 
 
