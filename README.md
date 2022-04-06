@@ -23,7 +23,7 @@ Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, r
 
 LABORATORIO 2: DATA TRASFORMATION
 
-Partendo dal dataset ottenuto in precedenza, abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici e infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici.
+Partendo dal dataset ottenuto in precedenza, abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici. Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
 
 
 
