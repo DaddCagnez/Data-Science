@@ -25,7 +25,12 @@ LABORATORIO 2: DATA TRASFORMATION
 
 Il file inerente a questa parte è Transformations.ipynb, tale file genererà il dataset Labor_Market_Data_Transforming.csv.
 
-Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Cleaning.csv), abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici. Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
+Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Cleaning.csv), abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici.
+Abbiamo prima di tutto ridotto ulteriormente il nostro dataframe prendedno in considerazione solo i valori per cui la feature PROVINCIAIMPRESA fosse uguale a MILANO, SONDRIO, VARESE che indicano le sedi delle nostre abitazioni e del nostro ateneo. Per ridurre ulteriormente il numero di record abbiamo selezionato solamente quelli che avevano una nazione tra le prime 5 per numero di occorrenze e lo stesso ragionamento è stato fatto per la feature SETTOREECONOMICODETTAGLIO. Successivamente durante la creazione della matrice di previsione abbiamo raggruppato i titoli di studio equivalenti in quanto ne erano presenti parecchi. In seguito abbiamo proceduto alla trasformazione di tutte le features andando a raggrupparle e classificarle in abse al valore contenuto.
+
+
+Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
+
 
 
 
