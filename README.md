@@ -10,7 +10,7 @@ Per una migliore lettura del file README.md consigliamo di non limitarsi a visua
 LABORATORIO 1: ANALYSIS AND PREPROCESSING
 
 Scaricare la cartella denominata Analysis.zip
-Assicurarsi di aggiungere i vari dataset in formato csv nella cartella Analysis, contenente il file Analysis.ipynb, il file PreAnalysis.ipynb e il file Labor_Market_Data_Cleaning.csv
+Assicurarsi di aggiungere i vari dataset in formato csv nella cartella Analysis, contenente il file Analysis.ipynb, il file PreAnalysis.ipynb e il file Labor_Market_Data_Cleaning.csv.
 
 Abbiamo utilizzato i seguenti Dataset:
 1- https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc che contiene informazioni riguardanti rapporti di lavoro attivati
@@ -23,9 +23,9 @@ Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, r
 
 LABORATORIO 2: DATA TRASFORMATION
 
-Il file inerente a questa parte è Trasformation.ipynb, tale fail genererà il file Labor_Market_Data_Trasformation.csv.
+Il file inerente a questa parte è Transformation.ipynb, tale file genererà il dataset Labor_Market_Data_Transforming.csv.
 
-Partendo dal dataset ottenuto in precedenza, abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici. Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
+Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Cleaning.csv), abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici. Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
 
 
 
