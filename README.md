@@ -23,7 +23,7 @@ Abbiamo inserito però il nostro dataset generato nalla fase di preprocessing, r
 
 LABORATORIO 2: DATA TRASFORMATION
 
-Il file inerente a questa parte è Transformation.ipynb, tale file genererà il dataset Labor_Market_Data_Transforming.csv.
+Il file inerente a questa parte è Transformations.ipynb, tale file genererà il dataset Labor_Market_Data_Transforming.csv.
 
 Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Cleaning.csv), abbiamo eliminando la colonna YEAR e abbiamo trasformato tutti i valori in dati numerici. Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML.
 
