@@ -28,6 +28,13 @@ Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Cleaning.csv), ab
 Abbiamo prima di tutto ridotto ulteriormente il nostro dataframe prendedno in considerazione solo i valori per cui la feature PROVINCIAIMPRESA fosse uguale a MILANO o SONDRIO o VARESE, ovvero le sedi delle nostre abitazioni e del nostro ateneo. Per ridurre ulteriormente il numero di record abbiamo selezionato solamente quelli che avevano una nazione tra le prime cinque per numero di occorrenze e lo stesso ragionamento è stato fatto per la feature SETTOREECONOMICODETTAGLIO. Successivamente, al fine di implementare la matrice di previsione, abbiamo raggruppato diverse features, procedendo poi a classifcarle in base al valore contenuto.
 Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente i valori numerici pronti per la fase di ML e abbiamo trasformato il dataframe nel dataset Labor_Market_Data_Transforming.csv, disponibile nella nostra repository github.
 
+LABORATORIO 3: MACHINE LEARNING
 
+Il file inerente a questa parte è MACHINE_Learning.ipynb.
+Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Transforming.csv), abbiamo proceduto con la linear regression tra "SCALETA" e "SCALETITOLO" e fra "SCALETA" and "SCALECONTRATTO".
+Per entrambe le regressioni abbiamo anche calcolato i coenficcenti di Pearson, Spearman e Kendall tau per calcolare la correlazione tra le due variabili e abbiamo calcolato anche il coefficente di determinazione.
+Abbiamo poi ridotto le dimensioni dei nostri dati oltre ad aver usato la PCA per poter eseguire al meglio la classificazione col KNN.
+Per quanto riguarda il K-means siamo partiti dal file Labor_Market_Data_Cleaning.csv per trasformare i dati con il OneHotEncoder.
+Per tutti i modelli è stato visualizzato un grafico l'uno.
 
 
