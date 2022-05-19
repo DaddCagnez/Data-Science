@@ -30,11 +30,11 @@ Infine abbiamo inserito all'interno di un nuovo dataframe la matrice contenente 
 
 LABORATORIO 3: MACHINE LEARNING
 
-Il file inerente a questa parte è MACHINE_Learning.ipynb.
+Il file inerente a questa parte è Machine_Learning.ipynb.
 Partendo dal dataset ottenuto in precedenza (Labor_Market_Data_Transforming.csv), abbiamo proceduto con la linear regression tra "SCALETA" e "SCALETITOLO" e fra "SCALETA" and "SCALECONTRATTO".
 Per entrambe le regressioni abbiamo anche calcolato i coenficcenti di Pearson, Spearman e Kendall tau per calcolare la correlazione tra le due variabili e abbiamo calcolato anche il coefficente di determinazione.
 Abbiamo poi ridotto le dimensioni dei nostri dati oltre ad aver usato la PCA per poter eseguire al meglio la classificazione col KNN.
-Per quanto riguarda il K-means siamo partiti dal file Labor_Market_Data_Cleaning.csv per trasformare i dati con il OneHotEncoder.
-Per tutti i modelli è stato visualizzato un grafico l'uno.
+Per quanto riguarda il K-means ci siamo concentrati su "SCALETITOLO", "SCALECONTRATTO", "SCALESETTORE" in relazione alle tre provincie considerate.
+Per tutti i modelli è stato visualizzato un grafico ciascuno.
 
 
